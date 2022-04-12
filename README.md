@@ -1,6 +1,5 @@
 # Espn-Project 
-It is a Web Scraping Project made using NodeJS, Javascript.\
-In this project we have to collect the complete performance information like player run rate, Runs,Match Result, opponent team etc in separate excel file of each player who Played IPL 2020 .
+It is a web Scraping project where we scarp the information of all the players playing in IPL 2020. The information/data scraped is stored in an excel file for each player and this excel file is present inside a separate team folder.
 
 
 Node modules used:\
